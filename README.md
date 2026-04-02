@@ -17,16 +17,6 @@ Detail-oriented Security Researcher skilled in **Web, Mobile (Android), and API 
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=scottt10&theme=tokyonight&hide_border=true&include_all_commits=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=scottt10&theme=tokyonight&hide_border=true)  
